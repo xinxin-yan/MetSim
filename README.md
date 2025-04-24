@@ -8,9 +8,9 @@ However, this approach poses a significant challenge. Many metaphorical expressi
 
 To address this, our project aims to:
 
-Develop or adapt a parser that identifies multiword expressions (MWEs) of various types, including noun phrases and verbal phrases, rather than parsing text into standalone tokens.
+1. Develop or adapt a parser that identifies multiword expressions (MWEs) of various types, including noun phrases and verbal phrases, rather than parsing text into standalone tokens.
 
-Compare the literal meaning of these MWEs with their contextual meaning to determine whether the expression is used metaphorically in context.
+2. Compare the literal meaning of these MWEs with their contextual meaning to determine whether the expression is used metaphorically in context.
 
 By leveraging MWE identification techniques and contextualized semantic models, our system will be designed to recognize metaphorical meaning at the phrase level, bringing us closer to human-like metaphor understanding in NLP.
 
